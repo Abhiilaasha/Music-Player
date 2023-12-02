@@ -16,7 +16,8 @@
 
    <h2>About</h2>
     <p>This project is a simple music player created using HTML, CSS, and JavaScript. It's designed to allow users to play audio tracks and control playback easily.</p>
-
+ <h2> Preview </h2>
+ <a href="https://imgur.com/KOIrxbP"><img src="https://i.imgur.com/KOIrxbP.png" title="source: imgur.com" /></a>
    
 </body>
 </html>
